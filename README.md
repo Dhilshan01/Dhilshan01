@@ -37,7 +37,7 @@
 
 ### 🧰 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,EclipseIDE" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma" />
 </p>
 
 ---
