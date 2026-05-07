@@ -44,6 +44,11 @@
 
 ## 🔥 Featured Projects
 
+### 🛍️ LuxeMarket
+- Modern full-stack e-commerce / marketplace application
+- Built with modern web technologies and responsive UI/UX principles
+- Features product management, user-friendly interfaces, and scalable architecture
+
 ### 🏥 Healthcare Appointment Management System
 - Java-based appointment booking and management system
 - Features include scheduling, cancellation, waiting list management, and doctor search
@@ -56,16 +61,7 @@
 - Responsive developer portfolio built using modern frontend technologies
 - Showcases projects, skills, and contact information
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhilshan01&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilshan01&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 ## 🌍 Connect With Me
 
