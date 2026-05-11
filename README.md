@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm W. T. Dhilshan</h1>
-<h3 align="center">Software Engineering Intern | Full-Stack Developer | BSc (Hons) Computing Software Engineering</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | BSc (Hons) Computing Software Engineering</h3>
 
 <p align="center">
   Passionate about building scalable software solutions, modern web applications, and clean user experiences.
